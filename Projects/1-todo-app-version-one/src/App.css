@@ -1,0 +1,18 @@
+h1{
+    font-weight: 900;
+
+}
+input {
+    width: 100%;
+    text-align: left;
+}
+.item{
+text-align: left;
+}
+.Go-row{
+  margin:7px 3px;
+
+}
+.G-button{
+min-width: 80px;
+}

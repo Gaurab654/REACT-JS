@@ -1,0 +1,17 @@
+
+.button {
+  background: black;
+  color: white;
+  padding: 6px 14px;
+  border: none;
+  border-radius: 6px;
+  font-size: 13px;
+  cursor: pointer;
+   /* prevents full width */
+  width: 50px;           /* keeps button small */
+}
+
+
+
+
+
